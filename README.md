@@ -5,7 +5,7 @@
 </p>
 <p align='center'>
   <a href="https://mike.works/course/node.js-fundamentals-2335407" target='_blank'>
-    <img height=150 src='https://user-images.githubusercontent.com/558005/33009968-b8a0ea60-cd7c-11e7-81af-b48a6273b12b.png' />
+    <img height=150 src='https://user-images.githubusercontent.com/558005/35308075-ceec0be0-005a-11e8-84b6-03b7fdf20aff.png' />
   </a>
 </p>
 <p align='center'>
