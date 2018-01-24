@@ -1,0 +1,28 @@
+{
+  "name": "mikeworks-node",
+  "version": "0.0.1",
+  "description": "Mike's Node.js Core Workshop",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha -o tests/mocha.opts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mike-works/node-fundamentals.git"
+  },
+  "keywords": [
+    "nodejs",
+    "workshop"
+  ],
+  "author": "Mike North <michael.l.north@gmail.com> (https://mike.works)",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/mike-works/node-fundamentals/issues"
+  },
+  "homepage": "https://github.com/mike-works/node-fundamentals#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.0",
+    "scripty": "^1.7.2"
+  }
+}
