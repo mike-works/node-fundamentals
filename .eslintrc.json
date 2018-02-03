@@ -1,24 +1,25 @@
 {
-    "env": {
-        "node": true
-    },
-    "extends": "eslint:recommended",
-    "parserOptions": {
-        "sourceType": "module",
-        "parser": "babel",
-        "ecmaVersion": 2017
-    },
-    "rules": {
-        "no-console": "off",
-        "no-debugger": "off",
-        "no-empty": "warn",
-        "no-case-declarations": "warn",
-        "no-fallthrough": "off",
-        "no-const-assign": "error",
-        "no-this-before-super": "warn",
-        "no-undef": "warn",
-        "no-unreachable": "warn",
-        "no-unused-vars": "warn",
-        "valid-typeof": "warn"
-    }
+  "env": {
+    "node": true,
+    "es6": true
+  },
+  "extends": "eslint:recommended",
+  "parserOptions": {
+    "sourceType": "module",
+    "parser": "babel",
+    "ecmaVersion": 2017
+  },
+  "rules": {
+    "no-console": "off",
+    "no-debugger": "off",
+    "no-empty": "warn",
+    "no-case-declarations": "warn",
+    "no-fallthrough": "off",
+    "no-const-assign": "error",
+    "no-this-before-super": "warn",
+    "no-undef": "warn",
+    "no-unreachable": "warn",
+    "no-unused-vars": "warn",
+    "valid-typeof": "warn"
+  }
 }
