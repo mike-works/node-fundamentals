@@ -9,6 +9,9 @@
   </a>
 </p>
 <p align='center'>
+  <a href="https://greenkeeper.io/" title="Dependencies">
+    <img title='GreenKeeper' src='https://badges.greenkeeper.io/mike-works/node-fundamentals.svg'>
+  </a>
   <a href="https://travis-ci.org/mike-works/node-fundamentals" title="Build Status">
     <img title="Build Status" src="https://travis-ci.org/mike-works/node-fundamentals.svg?branch=solutions"/>
   </a>
@@ -18,14 +21,14 @@
   <a href="https://docs.mike.works/node-slides" title="Slides">
     <img title="Slides" src="https://img.shields.io/badge/mike.works-slides-blue.svg"/>
   </a>
-  <a title='GreenKeeper'>
-    <img title='GreenKeeper' src='https://badges.greenkeeper.io/mike-works/node-fundamentals.svg'>
-  </a>
 </p>
 <p align='center'>
 This is the example project used for the <a title="Mike.Works" href="https://mike.works">Mike.Works</a> <a title="Node Fundamentals" href="https://mike.works/course/node.js-fundamentals-2335407">Node Fundamentals</a> course.
 </p>
 
+# Course outline and slides
+ * [View course outline here](https://mike.works/course/node.js-fundamentals-2335407)
+ * [View slides here](https://docs.mike.works/node-slides)
 
 # License
 
