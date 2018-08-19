@@ -37,6 +37,6 @@
     "typescript": "^3.0.1"
   },
   "dependencies": {
-    "inquirer": "^5.0.1"
+    "inquirer": "^6.1.0"
   }
 }
