@@ -1,5 +1,5 @@
 {
-  "name": "mikeworks-node",
+  "name": "@mike-works/node-fundamentals",
   "version": "0.0.0-development",
   "description": "Mike's Node.js Core Workshop",
   "main": "src/index.js",
