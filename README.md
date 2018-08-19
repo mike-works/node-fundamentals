@@ -12,14 +12,8 @@
   <a href="https://greenkeeper.io/" title="Dependencies">
     <img title='GreenKeeper' src='https://badges.greenkeeper.io/mike-works/node-fundamentals.svg'>
   </a>
-  <a href="https://travis-ci.org/mike-works/node-fundamentals" title="Build Status">
-    <img title="Build Status" src="https://travis-ci.org/mike-works/node-fundamentals.svg?branch=solutions"/>
-  </a>
-  <a href="https://mike.works/course/node.js-fundamentals-2335407" title="SQL Fundamentals">
-    <img title="Course Outline" src="https://img.shields.io/badge/mike.works-course%20outline-blue.svg"/>
-  </a>
-  <a href="https://docs.mike.works/node-slides" title="Slides">
-    <img title="Slides" src="https://img.shields.io/badge/mike.works-slides-blue.svg"/>
+  <a href="https://github.com/mike-works/node-fundamentals/releases" title="Version">
+    <img title="Version" src="https://img.shields.io/github/tag/mike-works/node-fundamentals.svg" />
   </a>
 </p>
 <p align='center'>
@@ -27,8 +21,9 @@ This is the example project used for the <a title="Mike.Works" href="https://mik
 </p>
 
 # Course outline and slides
- * [View course outline here](https://mike.works/course/node.js-fundamentals-2335407)
- * [View slides here](https://docs.mike.works/node-slides)
+
+- [View course outline here](https://mike.works/course/node.js-fundamentals-2335407)
+- [View slides here](https://docs.mike.works/node-slides)
 
 # License
 
@@ -42,19 +37,19 @@ understanding of how these licenses work:
 
 ### OK
 
-* Using everything in this project other than the exercises (or accompanying tests)
+- Using everything in this project other than the exercises (or accompanying tests)
   to build a project used for your own free or commercial training material
-* Copying code from build scripts, configuration files, tests and development
+- Copying code from build scripts, configuration files, tests and development
   harnesses that are not part of the exercises specifically, for your own projects
-* As an owner of an individual license, using code from tests, exercises, or
+- As an owner of an individual license, using code from tests, exercises, or
   exercise solutions for your own non-training-related project.
 
 ### NOT OK (without express written consent)
 
-* Using this project, or any subset of
+- Using this project, or any subset of
   exercises contained within this project to run your own workshops
-* Writing a book that uses the code for these exercises
-* Recording a screencast that contains one or more of this project's exercises
+- Writing a book that uses the code for these exercises
+- Recording a screencast that contains one or more of this project's exercises
 
 # Copyright
 
