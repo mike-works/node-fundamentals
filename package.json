@@ -25,20 +25,20 @@
   },
   "homepage": "https://github.com/mike-works/node-fundamentals#readme",
   "devDependencies": {
-    "@mike-works/js-lib-renovate-config": "^2.0.0",
-    "@mike-works/workshop-semantic-release-config": "^1.0.0",
-    "@types/chai": "^4.1.7",
+    "@mike-works/js-lib-renovate-config": "2.0.0",
+    "@mike-works/workshop-semantic-release-config": "1.0.0",
+    "@types/chai": "4.1.7",
     "@types/inquirer": "0.0.43",
-    "@types/mocha": "^5.2.5",
-    "@types/node": "^10.12.2",
-    "babel-eslint": "^10.0.1",
-    "chai": "^4.2.0",
-    "mocha": "^5.2.0",
-    "mocha-eslint": "^4.1.0",
-    "scripty": "^1.8.0",
-    "semantic-release": "^15.10.7",
-    "through": "^2.3.8",
-    "travis-deploy-once": "^5.0.9",
+    "@types/mocha": "5.2.5",
+    "@types/node": "10.12.3",
+    "babel-eslint": "10.0.1",
+    "chai": "4.2.0",
+    "mocha": "5.2.0",
+    "mocha-eslint": "4.1.0",
+    "scripty": "1.8.0",
+    "semantic-release": "15.10.8",
+    "through": "2.3.8",
+    "travis-deploy-once": "5.0.9",
     "tslint": "^5.11.0",
     "typescript": "^3.1.6"
   },
@@ -46,6 +46,6 @@
     "extends": "@mike-works/workshop-semantic-release-config"
   },
   "dependencies": {
-    "inquirer": "^6.2.0"
+    "inquirer": "6.2.0"
   }
 }
