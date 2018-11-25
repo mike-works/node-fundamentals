@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/mike-works/node-fundamentals/compare/v1.0.0...v1.0.1) (2018-11-25)
+
+
+### Bug Fixes
+
+* shared renovate config ([e852692](https://github.com/mike-works/node-fundamentals/commit/e852692))
+
 # 1.0.0 (2018-08-19)
 
 
