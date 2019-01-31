@@ -46,6 +46,6 @@
     "extends": "@mike-works/workshop-semantic-release-config"
   },
   "dependencies": {
-    "inquirer": "6.2.1"
+    "inquirer": "6.2.2"
   }
 }
