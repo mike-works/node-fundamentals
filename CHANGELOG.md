@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/mike-works/node-fundamentals/compare/v1.0.2...v1.0.3) (2019-01-31)
+
+
+### Bug Fixes
+
+* **deps:** update dependency inquirer to v6.2.2 ([1f6d8ab](https://github.com/mike-works/node-fundamentals/commit/1f6d8ab))
+
 ## [1.0.2](https://github.com/mike-works/node-fundamentals/compare/v1.0.1...v1.0.2) (2018-12-01)
 
 
