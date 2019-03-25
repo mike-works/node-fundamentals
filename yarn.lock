@@ -816,10 +816,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-10.12.3.tgz#3918b73ceed484e58367be5acb79d1775239e393"
   integrity sha512-sfGmOtSMSbQ/AKG8V9xD1gmjquC9awIIZ/Kj309pHb2n3bcRAcGMQv5nJ6gCXZVsneGE4+ve8DXKRCsrg3TFzg==
 
-"@types/node@10.14.3":
-  version "10.14.3"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-10.14.3.tgz#170a81168620d931cc3b83460be253cadd3028f1"
-  integrity sha512-2lhc7S28vo8FwR3Jv3Ifyd77AxEsx+Nl9ajWiac6/eWuvZ84zPK4RE05pfqcn3acIzlZDpQj5F1rIKQZX3ptLQ==
+"@types/node@10.14.4":
+  version "10.14.4"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-10.14.4.tgz#1c586b991457cbb58fef51bc4e0cfcfa347714b5"
+  integrity sha512-DT25xX/YgyPKiHFOpNuANIQIVvYEwCWXgK2jYYwqgaMrYE6+tq+DtmMwlD3drl6DJbUwtlIDnn0d7tIn/EbXBg==
 
 "@types/rx-core-binding@*":
   version "4.0.4"
