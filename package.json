@@ -28,7 +28,7 @@
     "@mike-works/js-lib-renovate-config": "2.0.0",
     "@mike-works/workshop-semantic-release-config": "1.0.0",
     "@types/chai": "4.1.7",
-    "@types/inquirer": "0.0.44",
+    "@types/inquirer": "6.0.3",
     "@types/mocha": "5.2.7",
     "@types/node": "10.14.8",
     "babel-eslint": "10.0.1",
@@ -46,6 +46,6 @@
     "extends": "@mike-works/workshop-semantic-release-config"
   },
   "dependencies": {
-    "inquirer": "6.2.2"
+    "inquirer": "6.3.1"
   }
 }
