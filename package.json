@@ -33,7 +33,7 @@
     "@types/node": "10.14.22",
     "babel-eslint": "10.0.3",
     "chai": "4.2.0",
-    "mocha": "6.2.1",
+    "mocha": "6.2.2",
     "mocha-eslint": "5.0.0",
     "scripty": "1.9.1",
     "semantic-release": "15.13.24",
