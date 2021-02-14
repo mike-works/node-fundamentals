@@ -30,7 +30,7 @@
     "@types/chai": "4.2.15",
     "@types/inquirer": "6.5.0",
     "@types/mocha": "5.2.7",
-    "@types/node": "10.17.51",
+    "@types/node": "10.17.52",
     "babel-eslint": "10.1.0",
     "chai": "4.3.0",
     "mocha": "6.2.3",
