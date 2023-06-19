@@ -35,7 +35,7 @@
     "chai": "4.3.6",
     "mocha": "6.2.3",
     "mocha-eslint": "5.0.0",
-    "scripty": "1.9.1",
+    "scripty": "2.1.1",
     "semantic-release": "15.14.0",
     "through": "2.3.8",
     "travis-deploy-once": "5.0.11",
