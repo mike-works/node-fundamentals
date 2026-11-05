@@ -31,7 +31,7 @@
     "@types/inquirer": "6.5.0",
     "@types/mocha": "5.2.7",
     "@types/node": "10.17.60",
-    "babel-eslint": "10.1.0",
+    "@babel/eslint-parser": "7.11.0",
     "chai": "4.5.0",
     "mocha": "6.2.3",
     "mocha-eslint": "5.0.0",
